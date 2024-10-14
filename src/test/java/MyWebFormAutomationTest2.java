@@ -74,7 +74,7 @@ public class MyWebFormAutomationTest2 {
         }
 
         Select select= new Select(driver.findElement(By.id("country_1665629257")));
-        select.selectByVisibleText("Bangladesh");
+        select.selectByVisibleText("Bangladesh")
 
 
 
