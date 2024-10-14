@@ -26,3 +26,11 @@ This project involves automating two different web forms using Selenium and JUni
 - **WebDriver**: For interacting with the browser and the web forms.
 
 This project will enhance testing efficiency by automating repetitive tasks and ensuring consistent form submissions.
+
+## Test Report of Web form automation 1
+![form1automation](https://github.com/user-attachments/assets/7103c36d-05ba-435e-a7e5-aff2430dba9e)
+
+## Test Report of Web form automation 2
+![form2automation](https://github.com/user-attachments/assets/887f55a4-51cf-40a2-b44a-3d386b5a67ba)
+
+
