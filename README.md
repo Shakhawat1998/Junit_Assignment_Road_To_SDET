@@ -1,4 +1,4 @@
-# Project Title: Web Form Automation using Selenium+Juit 
+# Project Title: Web Form Automation using Selenium+Junit 
 
 ### Project Summary
 
